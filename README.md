@@ -9,3 +9,4 @@ It focuses on clean UI design, smooth transitions, and an intuitive user experie
 ⚡ Instant tab switching without page reload
 
 🎨 Stylish UI with hover & active effects
+
