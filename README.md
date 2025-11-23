@@ -10,3 +10,10 @@ It focuses on clean UI design, smooth transitions, and an intuitive user experie
 
 🎨 Stylish UI with hover & active effects
 
+🧩 Built with pure HTML, CSS & JavaScript (no frameworks)
+
+📱 Responsive layout for all devices
+
+🚀 Lightweight and fast-loading
+
+🎯 Beginner-friendly and easily customizable
