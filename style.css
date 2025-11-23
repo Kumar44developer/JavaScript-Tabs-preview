@@ -12,3 +12,7 @@
     height: 100vh;
     transition: all 1s;
   }
+
+.wrapper {
+    width: 750px;
+    height: 400px;
