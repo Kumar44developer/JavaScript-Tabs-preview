@@ -8,3 +8,7 @@
   body {
     background-color: #00d8ff;
     display: grid;
+    place-items: center;
+    height: 100vh;
+    transition: all 1s;
+  }
