@@ -17,3 +17,17 @@ It focuses on clean UI design, smooth transitions, and an intuitive user experie
 🚀 Lightweight and fast-loading
 
 🎯 Beginner-friendly and easily customizable
+
+
+ WORKING OF THE PROJECT 
+Each tab is linked to its corresponding content panel.
+
+JavaScript listens for click events on the tabs and dynamically updates:
+
+The active tab’s styling
+
+The visible content section
+
+The hidden sections
+
+CSS handles the layout, animations, and visual effects. 
