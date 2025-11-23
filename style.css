@@ -21,3 +21,6 @@
     overflow: hidden;
     z-index: 3;
   }
+  .container {
+    position: relative;
+    width: 750px;
