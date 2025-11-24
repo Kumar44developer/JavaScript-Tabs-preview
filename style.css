@@ -50,4 +50,9 @@ nav a {
      transition: all 0.3s;
   }
 
+  .link:hover {
+    color: #333; 
+  }
+
+
 
