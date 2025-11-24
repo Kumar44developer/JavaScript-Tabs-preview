@@ -38,5 +38,9 @@ nav {
     display: flex;
     justify-content: space-around;
     border-bottom: 1px solid gainsboro;
+    z-index: 8;
+    background: white;
+    color: rgb(150, 240, 177);
+  }
 
 
