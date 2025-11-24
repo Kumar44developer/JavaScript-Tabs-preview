@@ -42,5 +42,8 @@ nav {
     background: white;
     color: rgb(150, 240, 177);
   }
+nav a {
+    padding: 10px;
+    text-decoration: none;
 
 
