@@ -90,6 +90,11 @@ nav a {
 .neon-glow {
     animation: neon-glow-animation 1.5s infinite alternate;
   }
+
+@keyframes neon-glow-animation {
+    0% {
+      box-shadow: 0px 0px 10px rgba(255, 0, 0, 1);
+    }
     
 
 
