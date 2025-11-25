@@ -77,6 +77,8 @@ nav a {
   .item {
     width: 850px;
     color: #000;
+     background: #fff;
+    display: flex;
 
 
 
