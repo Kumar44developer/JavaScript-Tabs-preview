@@ -87,6 +87,9 @@ nav a {
   .link {
     transition: all 0.3s;
   }
+.neon-glow {
+    animation: neon-glow-animation 1.5s infinite alternate;
+  }
     
 
 
