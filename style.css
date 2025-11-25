@@ -79,6 +79,9 @@ nav a {
     color: #000;
      background: #fff;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    
 
 
 
