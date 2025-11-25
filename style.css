@@ -70,3 +70,6 @@ nav a {
 .info {
     display: flex;
     width: 750px;
+     height: 100%;
+    padding-top: 2rem;
+  }
