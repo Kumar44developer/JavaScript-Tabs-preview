@@ -16,3 +16,7 @@ function setColors(tab, bgColor, iconClass, infoColor) {
 
 tabOne.addEventListener("click",()=>{
     setColors(tabOne,"#00d8ff","fab fa-react","#00d8ff");
+     tabOne.classList.add("tabOne");
+    tabTwo.classList.remove("tabOne");
+    tabThree.classList.remove("tabOne");
+})
