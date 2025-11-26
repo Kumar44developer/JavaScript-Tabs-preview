@@ -24,3 +24,4 @@ tabOne.addEventListener("click",()=>{
 
 tabTwo.addEventListener("click",()=>{
     setColors(tabTwo,"#42b883","fab fa-vuejs","#42b883");
+    tabTwo.classList.add("tabOne");
