@@ -8,3 +8,4 @@ const active = document.querySelector(".active")
 
 function setColors(tab, bgColor, iconClass, infoColor) {
     body.style.backgroundColor = bgColor;
+     icon.innerHTML = `<i class="${iconClass}"></i>`;
