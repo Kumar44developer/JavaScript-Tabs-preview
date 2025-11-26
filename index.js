@@ -20,3 +20,7 @@ tabOne.addEventListener("click",()=>{
     tabTwo.classList.remove("tabOne");
     tabThree.classList.remove("tabOne");
 })
+
+
+tabTwo.addEventListener("click",()=>{
+    setColors(tabTwo,"#42b883","fab fa-vuejs","#42b883");
