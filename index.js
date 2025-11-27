@@ -30,6 +30,8 @@ tabTwo.addEventListener("click",()=>{
 })
     
 
+setColors(tabOne,"#00d8ff","fab fa-react","#00d8ff");
+tabOne.classList.add("tabOne");
 
 
 
