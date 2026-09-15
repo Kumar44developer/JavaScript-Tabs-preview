@@ -30,10 +30,10 @@ An interactive, responsive tab component built with vanilla HTML, CSS, and JavaS
 
 ```
 JavaScript-Tabs-preview/
-├── index.html       # Markup structure for navigation tabs and preview container
-├── style.css        # Layout, typography, theme styles, and neon animations
-├── index.js         # Tab event listeners and dynamic color switching logic
-└── README.md        # Project documentation
+├── index.html      
+├── style.css        
+├── index.js       
+└── README.md        
 ```
 
 ---
